@@ -1,0 +1,17 @@
+[INFO] 13:59:16 User chose menu option 1
+[ERROR] 13:59:18 Couldn't read the specified file
+[INFO] 13:59:19 User chose menu option 1
+[ERROR] 13:59:28 Couldn't read the specified file
+[DEBUG] 13:59:31 Exit the program
+[INFO] 14:10:23 User chose menu option 2
+[DEBUG] 14:10:30 Exit the program
+[INFO] 15:07:28 User chose menu option 1
+[INFO] 15:07:40 User chose menu option 2
+[DEBUG] 15:07:53 Exit the program
+[INFO] 15:07:57 User chose menu option 2
+[ERROR] 15:08:11 Couldn't write to a file
+[DEBUG] 15:08:19 Exit the program
+[INFO] 13:53:26 User chose menu option 2
+[ERROR] 13:53:28 Couldn't write to a file
+[INFO] 13:53:29 User chose menu option 1
+[DEBUG] 13:53:32 Exit the program
